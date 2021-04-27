@@ -1,4 +1,4 @@
-# shcy_cutscenelist
+## shcy_cutscenelist
 Menu with all the cutscenes, you can add and remove some cutscenes of a favorite list, you can play them etc etc. Discover it by yourself ;)
 
 
